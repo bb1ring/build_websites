@@ -1,0 +1,16 @@
+---
+title: "About this website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# information about this website
+
+
+This website was made as an aexample in [p8105](https://p8105.com/making_websites.html) for "making website".
+
+
+
+
